@@ -1,0 +1,7 @@
+tcs/set_user_password.py
+tcs/setup_configure-network_with-response.py
+tcs/setup_configure-console.py
+tcs/change_console_passowrd.py
+tcs/network_interfaces.py
+tcs/user_management.py
+tcs/tenants.py

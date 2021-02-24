@@ -1,0 +1,11 @@
+tcs/install_iso.py
+tcs/set_user_password.py
+tcs/setup_configure-network_with-response.py
+tcs/setup_configure-console.py
+tcs/change_console_passowrd.py
+tcs/network_interfaces.py
+tcs/user_management.py
+tcs/tenants.py
+tcs/upload_application_8_1_2_0.py
+tcs/netbackup_master_8_1_2.py
+tcs/netbackup_media_8_1_2.py
